@@ -13,4 +13,4 @@ Asistente Virtual que complementa el proyecto BestBot y Between Students. Permit
 
 ## Desarrollada en: 
 
-<img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvoicexml.org%2F&psig=AOvVaw1jbfCLMWaMdHz5kPTGwWEz&ust=1610702284645000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiAteCLm-4CFQAAAAAdAAAAABAD"> VoiceXML.
+VoiceXML
